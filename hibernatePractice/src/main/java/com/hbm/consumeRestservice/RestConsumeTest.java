@@ -32,9 +32,7 @@ public class RestConsumeTest {
 		//createStudent();
 		//modifyStudent();
 		//deleteStudent();
-		
-		System.out.println("kazim ka conflict");
-		
+		int i=10;
 		
 	}
 
