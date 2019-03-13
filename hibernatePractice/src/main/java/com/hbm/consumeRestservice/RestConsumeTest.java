@@ -21,7 +21,7 @@ public class RestConsumeTest {
 		requestParam.put("standard", "tenth");
 		requestParam.put("board", "icse");
 		System.out.println("wertyuiopsdfghjkl");
-		
+		System.out.println("my 2nd commit");
 
 	}
 	
