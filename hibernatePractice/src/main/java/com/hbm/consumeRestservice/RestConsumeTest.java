@@ -33,6 +33,8 @@ public class RestConsumeTest {
 		//modifyStudent();
 		//deleteStudent();
 		
+		System.out.println("kazim ka conflict");
+		
 		
 	}
 
