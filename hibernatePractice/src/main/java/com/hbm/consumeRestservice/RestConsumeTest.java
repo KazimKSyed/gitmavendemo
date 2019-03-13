@@ -32,7 +32,7 @@ public class RestConsumeTest {
 		//createStudent();
 		//modifyStudent();
 		//deleteStudent();
-		
+		int i=10;
 		
 	}
 
