@@ -34,10 +34,7 @@ public class RestConsumeTest {
 		//modifyStudent();
 		//deleteStudent();
 
-			System.out.println("code change in local");
-
-			System.out.println("code is change from master");
-
+int i=10;
 
 			
 		
