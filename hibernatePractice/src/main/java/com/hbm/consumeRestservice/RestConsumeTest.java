@@ -34,6 +34,7 @@ public class RestConsumeTest {
 		//modifyStudent();
 		//deleteStudent();
 
+int j=20;
 
 int i=20;
 
