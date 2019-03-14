@@ -32,7 +32,9 @@ public class RestConsumeTest {
 		//createStudent();
 		//modifyStudent();
 		//deleteStudent();
-		int i=10;
+			System.out.println("change from master");
+
+			
 		
 	}
 
