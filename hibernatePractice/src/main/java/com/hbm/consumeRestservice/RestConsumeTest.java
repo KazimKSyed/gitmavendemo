@@ -33,7 +33,7 @@ public class RestConsumeTest {
 		//createStudent();
 		//modifyStudent();
 		//deleteStudent();
-			System.out.println("change from master");
+			System.out.println("code change in local");
 
 			
 		
