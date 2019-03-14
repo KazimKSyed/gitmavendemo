@@ -20,6 +20,7 @@ public class RestConsumeTest {
 		requestParam.put("studentName", "kazim");
 		requestParam.put("standard", "tenth");
 		requestParam.put("board", "icse");
+		System.out.println("change from local");
 		
 
 	}
